@@ -33,3 +33,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </span>
 </p>
+<br>
+<h2 align="center">Certificates</h2>
+<p align="center">
+  <a href="https://www.credly.com/badges/991a5683-8637-4949-ba7b-7c70f0442152/public_url">
+    <img src="https://github.com/slxca/slxca/blob/main/github-foundations.png?raw=true" alt="GitHub Foundations Certificate" width="150" height="150" />
+  </a>
+</p>
