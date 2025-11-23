@@ -8,6 +8,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </span>
   <span style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/expo/expo-original.svg" alt="expo" width="40" height="40" />
+  </span>
+  <span style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </span>
   <span style="margin: 0 10px;">
