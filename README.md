@@ -49,6 +49,11 @@
   />
   <img 
     style="width: 50px; height: 50px" 
+    alt="extjs"
+    src="https://www.sencha.com/wp-content/uploads/2023/07/hero-center-img.svg"
+  />
+  <img 
+    style="width: 50px; height: 50px" 
     alt="java"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   />
