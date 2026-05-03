@@ -39,11 +39,6 @@
   />
   <img 
     style="width: 50px; height: 50px" 
-    alt="quarkus"
-    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/quarkus/quarkus-original.svg"
-  />
-  <img 
-    style="width: 50px; height: 50px" 
     alt="spring"
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg"
   />
@@ -51,6 +46,11 @@
     style="width: 50px; height: 50px" 
     alt="extjs"
     src="https://www.sencha.com/wp-content/uploads/2023/07/hero-center-img.svg"
+  />
+  <img 
+    style="width: 50px; height: 50px" 
+    alt="quarkus"
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/quarkus/quarkus-original.svg"
   />
   <img 
     style="width: 50px; height: 50px" 
