@@ -1,22 +1,22 @@
-# Hi, I'm Luca 👋
+# Luca Sträter
 
 **Full Stack Engineer building production-ready SaaS, Extensions & Developer Tools.**  
-Based in Germany 🇩🇪
+Based in Germany
 
 [![Website](https://img.shields.io/badge/Website-slxca.com-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://slxca.com)
 [![Email](https://img.shields.io/badge/Email-hello%40slxca.com-181717?style=for-the-badge&logo=github&logoColor=white)](mailto:hello@slxca.com)
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💡 **Building in Public:** Passionate about solving real developer friction with custom tooling and open-source packages.
-- ⚡ **Scale & Performance:** Engineering frontend features at enterprise scale alongside building custom full-stack software.
-- 🛠️ **Main Focus:** TypeScript/JavaScript ecosystem (React, Next.js), Java (Quarkus), & Cloud/DevOps fundamentals.
+- **Building in Public:** Passionate about solving real developer friction with custom tooling and open-source packages.
+- **Scale & Performance:** Engineering frontend features at enterprise scale alongside building custom full-stack software.
+- **Main Focus:** TypeScript/JavaScript ecosystem (React, Next.js), Java (Quarkus), & Cloud/DevOps fundamentals.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages & Frontend**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -46,7 +46,7 @@ Based in Germany 🇩🇪
 
 ---
 
-### 📦 Featured Open Source & Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -57,6 +57,6 @@ Based in Germany 🇩🇪
 
 ---
 
-### 📈 Activity
+### Activity
 
 ![Slxca Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=slxca&theme=github-compact&hide_border=true&area=true)
