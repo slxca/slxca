@@ -43,20 +43,3 @@ Based in Germany
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[rdap-java](https://github.com/slxca/rdap-java)** | Lightweight RDAP client library for Java to query domain registrations across all TLDs. | `Java` `Gradle` |
-| **[nfx-reset](https://github.com/slxca/nfx-reset)** | Manifest V3 Chrome Extension to reset Netflix playback progress with a single click. | `TypeScript` `WebExtension` |
-| **[mockr.js](https://github.com/slxca/mockr.js)** | Lightweight npm package to generate realistic mock data for testing and local dev. | `TypeScript` `npm` |
-| **[google-onetap-nextjs](https://github.com/slxca/google-onetap-nextjs)** | Reference implementation for Google OneTap authentication in Next.js 14 (App Router). | `Next.js` `TypeScript` |
-
----
-
-### Activity
-
-![Slxca Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=slxca&theme=github-compact&hide_border=true&area=true)
