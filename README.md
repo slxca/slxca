@@ -3,13 +3,6 @@
 **Full Stack Engineer building production-ready SaaS, Extensions & Developer Tools.**  
 Based in Germany
 
-[![Website](https://img.shields.io/badge/Website-slxca.com-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://slxca.com)
-[![Email](https://img.shields.io/badge/Email-hello%40slxca.com-181717?style=for-the-badge&logo=github&logoColor=white)](mailto:hello@slxca.com)
-
----
-
-### About Me
-
 - **Building in Public:** Passionate about solving real developer friction with custom tooling and open-source packages.
 - **Scale & Performance:** Engineering frontend features at enterprise scale alongside building custom full-stack software.
 - **Main Focus:** TypeScript/JavaScript ecosystem (React, Next.js), Java (Quarkus), & Cloud/DevOps fundamentals.
