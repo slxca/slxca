@@ -1,38 +1,16 @@
 # Luca Sträter
+**Full Stack Engineer & Open Source Builder**
 
-**Full Stack Engineer building production-ready SaaS, Extensions & Developer Tools.**  
-Based in Germany
+I build minimalist, production-ready software. By day, I am training as a software developer (Fachinformatiker Anwendungsentwicklung), engineering enterprise-scale applications. By night, I operate under my freelance alias **slxca**, building zero-dependency developer tools and micro-SaaS.
 
-- **Building in Public:** Passionate about solving real developer friction with custom tooling and open-source packages.
-- **Scale & Performance:** Engineering frontend features at enterprise scale alongside building custom full-stack software.
-- **Main Focus:** TypeScript/JavaScript ecosystem (React, Next.js), Java (Quarkus), & Cloud/DevOps fundamentals.
+My engineering philosophy is simple: keep interfaces clean, minimize external dependencies, and solve real developer friction.
 
----
+### 🏗️ Currently Building
+- **OpenContext:** A local Model Context Protocol (MCP) server for persistent AI agent memory.
+- **A11yLens:** A Next.js-based web accessibility auditing tool.
+- **rdap-java:** A lightweight, dependency-free RDAP client for Java.
 
-### Tech Stack & Tools
-
-**Languages & Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![ExtJS](https://img.shields.io/badge/ExtJS-black?style=flat-square&logo=sencha&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Databases**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Cloud, Infrastructure & Platforms**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+### ⚡ Core Stack
+- **Frontend:** TypeScript, Next.js, React, Tailwind CSS
+- **Backend:** Java, Quarkus, PostgreSQL, Supabase
+- **Infrastructure:** Docker, OrbStack, Cloudflare
