@@ -1,7 +1,7 @@
 # Luca Sträter
 **Full Stack Engineer & Open Source Builder**
 
-I build minimalist, production-ready software. By day, I am training as a software developer (Fachinformatiker Anwendungsentwicklung), engineering enterprise-scale applications. By night, I operate under my freelance alias **slxca**, building zero-dependency developer tools and micro-SaaS.
+I build minimalist, production-ready software. By day, I am training as a software developer, engineering enterprise-scale applications. By night, I operate under my freelance alias **slxca**, building zero-dependency developer tools and micro-SaaS.
 
 My engineering philosophy is simple: keep interfaces clean, minimize external dependencies, and solve real developer friction.
 
