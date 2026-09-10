@@ -6,9 +6,9 @@ I build minimalist, production-ready software. By day, I am training as a softwa
 My engineering philosophy is simple: keep interfaces clean, minimize external dependencies, and solve real developer friction.
 
 ### 🏗️ Currently Building
+- **[Ploomi](https://github.com/ploomi):** Real-time event tracking and analytics built for speed, simplicity, and open-source workflows.
 - **[OpenContext](https://opencntx.dev):** A local Model Context Protocol (MCP) server for persistent AI agent memory.
 - **[rdap-java](https://github.com/slxca/rdap-java):** A lightweight, dependency-free RDAP client for Java.
-- **A11yLens:** A Next.js-based web accessibility auditing tool.
 
 ### ⚡ Core Stack
 - **Frontend:** TypeScript, Next.js, React, Tailwind CSS
