@@ -8,7 +8,7 @@ My engineering philosophy is simple: keep interfaces clean, minimize external de
 ### 🏗️ Currently Building
 - **[Ploomi](https://github.com/ploomi):** Real-time event tracking and analytics built for speed, simplicity, and open-source workflows.
 - **[OpenContext](https://opencntx.dev):** A local Model Context Protocol (MCP) server for persistent AI agent memory.
-- **[SaveQL](https://github.com/saveql):** A modern, self-hosted SQL backup & recovery platform.
+- **[next-route-kit](https://github.com/slxca/next-route-kit):** Lightweight, type-safe API route toolkit for Next.js App Router with Zod and Standard Schema support.
 - **[rdap-java](https://github.com/slxca/rdap-java):** A lightweight, dependency-free RDAP client for Java.
 
 ### ⚡ Core Stack
