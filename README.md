@@ -8,7 +8,7 @@ My engineering philosophy is simple: keep interfaces clean, minimize external de
 ### 🏗️ Currently Building
 - **[Ploomi](https://github.com/ploomi):** Real-time event tracking and analytics built for speed, simplicity, and open-source workflows.
 - **[OpenContext](https://opencntx.dev):** A local Model Context Protocol (MCP) server for persistent AI agent memory.
-- **[next-route-kit](https://github.com/slxca/next-route-kit):** Type-safe, composable API route handlers for the Next.js App Router.
+- **[next-routed](https://github.com/slxca/next-routed):** Type-safe, composable API route handlers for the Next.js App Router.
 - **[rdap-java](https://github.com/slxca/rdap-java):** A lightweight, dependency-free RDAP client for Java.
 
 ### ⚡ Core Stack
